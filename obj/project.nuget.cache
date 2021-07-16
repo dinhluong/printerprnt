@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "b9OLr3PopXctxli8U+vtW1BXE9sF2sK7kKS+Z2qvOHSQ6xB0HlLf+yW+Tmyq0URaj+xcOtZ9UNNfXZ2dznVq7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mrdin\\OneDrive\\Desktop\\CMC\\Temp\\PrinterPRNT\\PrinterPRNT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrdin\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.1\\microsoft.netcore.platforms.3.1.1.nupkg.sha512",
+    "C:\\Users\\mrdin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\mrdin\\.nuget\\packages\\sixlabors.imagesharp\\1.0.2\\sixlabors.imagesharp.1.0.2.nupkg.sha512",
+    "C:\\Users\\mrdin\\.nuget\\packages\\starmicronics.cloudprnt-utility\\1.1.1\\starmicronics.cloudprnt-utility.1.1.1.nupkg.sha512",
+    "C:\\Users\\mrdin\\.nuget\\packages\\system.text.encoding.codepages\\4.7.1\\system.text.encoding.codepages.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
